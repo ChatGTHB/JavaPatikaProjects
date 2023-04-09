@@ -1,4 +1,4 @@
-package calculatingVatAmount;
+package _02_CalculatingVatAmount;
 
 import java.util.Scanner;
 

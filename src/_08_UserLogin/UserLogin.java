@@ -1,3 +1,5 @@
+package _08_UserLogin;
+
 import java.util.Scanner;
 
 public class UserLogin {

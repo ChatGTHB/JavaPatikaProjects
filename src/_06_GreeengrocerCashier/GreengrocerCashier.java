@@ -1,4 +1,8 @@
-import java.util.*;
+package _06_GreeengrocerCashier;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 public class GreengrocerCashier {
     public static void main(String[] args) {

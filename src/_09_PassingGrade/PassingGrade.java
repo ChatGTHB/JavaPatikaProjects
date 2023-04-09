@@ -1,3 +1,5 @@
+package _09_PassingGrade;
+
 import java.util.Scanner;
 
 public class PassingGrade {

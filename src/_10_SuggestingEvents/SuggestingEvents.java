@@ -1,3 +1,5 @@
+package _10_SuggestingEvents;
+
 import java.util.Scanner;
 
 public class SuggestingEvents {

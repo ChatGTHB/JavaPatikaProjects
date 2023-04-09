@@ -1,3 +1,5 @@
+package _05_BodyMassIndex;
+
 import java.util.Scanner;
 
 public class BMI {

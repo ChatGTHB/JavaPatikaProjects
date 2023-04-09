@@ -1,3 +1,5 @@
+package _03_AreaOfTriangleAndFindingHypotenuse;
+
 import java.util.Scanner;
 public class FindingHypotenuse {
     public static void main(String[] args) {
