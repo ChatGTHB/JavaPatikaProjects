@@ -1,0 +1,17 @@
+In English :
+
+Suggesting Events Based on Air Temperature
+
+Suggest to "Ski" if the temperature is less than 5.
+Suggest the "Cinema" event if the temperature is between 5 and 15.
+Suggest the "Picnic" event if the temperature is between 15 and 25.
+Suggest the "Swimming" event if the temperature is greater than 25.
+
+=======================================
+
+Hava Sıcaklığına Göre Etkinlik Önerme
+
+Sıcaklık 5'dan küçük ise "Kayak" yapmayı öner.
+Sıcaklık 5 ve 15 arasında ise "Sinema" etkinliğini öner.
+Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner.
+Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.

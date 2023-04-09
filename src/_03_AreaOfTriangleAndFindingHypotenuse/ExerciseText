@@ -1,0 +1,37 @@
+In English :
+
+Program to Find Hypotenuse in Right Triangle
+
+Write a program in Java that calculates the hypotenuse and
+takes the length of the right sides from the user.
+
+Homework
+
+Write a program that calculates the area of the triangle
+whose three side lengths you get from the user.
+
+Formula
+
+Circumference of Triangle = 2𝑢
+𝑢 = (a+b+c) 2
+Area * Area = 𝑢 (𝑢 − 𝑎) (𝑢 − 𝑏) (𝑢 − 𝑐)
+
+======================================================================
+
+Dik Üçgende Hipotenüs Bulan Program
+
+Java ile kullanıcıdan dik kenarlarının uzunluğunu alan
+ve hipotenüsü hesaplayan programı yazın.
+
+
+Ödev :
+
+Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin
+alanını hesaplayan programı yazınız.
+
+
+Formül :
+
+Üçgenin Çevresi = 2𝑢
+𝑢 = (a+b+c) / 2
+Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)

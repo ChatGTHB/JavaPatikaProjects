@@ -1,0 +1,38 @@
+
+In English :
+
+Program that Calculates VAT Amount
+
+Write a program that calculates the VAT value and
+VAT amount of the money value received from the user with Java and prints it on the screen.
+
+(Note: Take VAT as 18%)
+
+Price without VAT = 10;
+Price with VAT = 11.8;
+VAT amount = 1.8;
+
+Homework
+
+If the amount entered is between 0 and 1000 TL,
+the VAT rate is 18%, if the amount is greater than 1000 TL,
+write a program that calculates the VAT amount as 8%.
+
+ ===============================================================================================
+
+
+KDV Tutarı Hesaplayan Program
+
+Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve
+KDV tutarını hesaplayıp ekrana bastıran programı yazın.
+
+(Not : KDV tutarını 18% olarak alın)
+
+KDV'siz Fiyat = 10;
+KDV'li Fiyat = 11.8;
+KDV tutarı = 1.8;
+
+Ödev
+
+Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 ,
+tutar 1000 TL'den büyük ise KDV oranını %8 olarak KDV tutarı hesaplayan programı yazınız.

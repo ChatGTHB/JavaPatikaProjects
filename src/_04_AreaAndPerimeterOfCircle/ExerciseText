@@ -1,0 +1,29 @@
+In English :
+
+Program to Calculate Area and Perimeter of a Circle
+
+Write a program in Java that calculates the area and perimeter of a circle
+whose radius you get from the user.
+Area Formula: π * r * r;
+Circumference Formula: 2 * π * r;
+
+Homework
+
+Write a program to find the area of a segment of a circle with radius r and
+measure 𝛼 of the central angle.
+Take the number 𝜋 = 3.14.
+Formula : (𝜋* (r*r) *𝛼)/ 360
+
+======================================================================
+
+Dairenin Alanını ve Çevresini Hesaplayan Program
+
+Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
+Alan Formülü : π * r * r;
+Çevre Formülü : 2 * π * r;
+
+Ödev
+
+Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.
+𝜋 sayısını = 3.14 alınız.
+Formül : (𝜋 * (r*r) * 𝛼) / 360
