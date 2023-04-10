@@ -1,30 +1,16 @@
 
 In English :
 
-Program to Calculate Grade Average
-
-Write a program that calculates the average of the exam scores of
-Mathematics, Physics, Chemistry, Turkish, History, Music courses from the user
-and prints them on the screen with Java.
-
-Homework
-
-In the same program, using conditional expressions, if the user's average is greater than 60,
-the screen should write "Passed the Class", if it is lower, "Failed in the Class".
+Write a program that takes the exam scores of
+Mathematics, Physics, Chemistry, Turkish, History, Music courses
+from the user and calculates the averages and prints them on the screen with Java.
 
 Note: If and Else will not be used...
 
- ===============================================================================================
+ =====================================
 
-
-Not Ortalaması Hesaplayan Program
-
-Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını
-kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
-
-Ödev
-
-Aynı program içerisinde koşullu ifadeler kullanılarak,
-eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın.
+Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik
+derslerinin sınav puanlarını kullanıcıdan alan ve
+ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
 
 Not : If ve Else kullanılmayacak...
