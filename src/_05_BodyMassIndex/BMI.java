@@ -18,6 +18,5 @@ public class BMI {
         bodyMassIndex=weight/Math.pow(height,2);
 
         System.out.println("Your Body Mass Index = " + bodyMassIndex);
-
     }
 }
