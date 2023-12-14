@@ -9,13 +9,13 @@ public class SortingNumbers {
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter three different numbers:");
-        System.out.print("The First Number (\"a\") : ");
+        System.out.print("The First Number (a) : ");
         a = input.nextInt();
 
-        System.out.print("The Second Number (\"b\") : ");
+        System.out.print("The Second Number (b) : ");
         b = input.nextInt();
 
-        System.out.print("The Third Number (\"c\") : ");
+        System.out.print("The Third Number (c) : ");
         c = input.nextInt();
 
         if ((a < b) && (a < c)) {
