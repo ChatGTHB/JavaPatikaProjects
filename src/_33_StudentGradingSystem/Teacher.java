@@ -16,5 +16,4 @@ public class Teacher {
         System.out.println("Phone : " + this.phoneNumber);
         System.out.println("Branch : " + this.branch);
     }
-
 }
