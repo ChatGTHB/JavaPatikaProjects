@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BMI {
     public static void main(String[] args) {
 
-        double height,weight,bodyMassIndex;
+        double height, weight, bodyMassIndex;
 
         Scanner input = new Scanner(System.in);
 
@@ -15,7 +15,7 @@ public class BMI {
         System.out.print("Please enter your weight : ");
         weight = input.nextDouble();
 
-        bodyMassIndex=weight/Math.pow(height,2);
+        bodyMassIndex = weight / Math.pow(height, 2);
 
         System.out.println("Your Body Mass Index = " + bodyMassIndex);
     }
