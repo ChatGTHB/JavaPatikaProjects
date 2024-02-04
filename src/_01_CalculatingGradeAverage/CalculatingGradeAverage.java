@@ -9,9 +9,9 @@ public class CalculatingGradeAverage {
 
     public static void main(String[] args) {
 
-        Scanner input=new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
-        List<String> lessons=new ArrayList<String>(Arrays.asList("Mathematics", "Physics", "Chemistry", "Turkish", "History", "Music"));
+        List<String> lessons = new ArrayList<String>(Arrays.asList("Mathematics", "Physics", "Chemistry", "Turkish", "History", "Music"));
 
         int total = 0;
 
@@ -20,9 +20,9 @@ public class CalculatingGradeAverage {
             int examGrade = input.nextInt();
             total += examGrade;
         }
-        double averageGrade= (double) total / lessons.size();
+        double averageGrade = (double) total / lessons.size();
 
-        System.out.println("Average grade = "+averageGrade);
-        System.out.println(averageGrade>=60?"Passed the Class":"Failed in Class");
+        System.out.println("Average grade = " + averageGrade);
+        System.out.println(averageGrade >= 60 ? "Passed the Class" : "Failed in Class");
     }
 }
