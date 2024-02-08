@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class AreaOfCircle {
     public static void main(String[] args) {
 
-        double pi=3.14,area,radius,centerAngle;
+        double pi = 3.14, area, radius, centerAngle;
 
         Scanner input = new Scanner(System.in);
 
@@ -15,7 +15,7 @@ public class AreaOfCircle {
         System.out.print("Enter the circle center angle value : ");
         centerAngle = input.nextDouble();
 
-        area=(pi * (radius*radius) * centerAngle) / 360;
+        area = (pi * (radius * radius) * centerAngle) / 360;
 
         System.out.println("Area = " + area);
     }
