@@ -34,7 +34,7 @@ public class UserLogin {
                     System.out.println("New password created.");
                 }
             }
-        }else{
+        } else {
             System.out.println("Your information is wrong.");
         }
     }
