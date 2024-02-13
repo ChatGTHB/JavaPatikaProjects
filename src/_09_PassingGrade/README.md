@@ -1,4 +1,5 @@
 # PatikaJavaProject09
+
 ```
 Grade Pass Status
 ```
@@ -6,5 +7,6 @@ Grade Pass Status
 ```
 Sınıf Geçme Durumu
 ```
+
 [Patika](https://www.patika.dev)
 

@@ -36,6 +36,6 @@ public class PassingGrade {
         } else {
             System.out.println("Congratulations, you passed the class.");
         }
-        System.out.print("Your average = "+average);
+        System.out.print("Your average = " + average);
     }
 }
