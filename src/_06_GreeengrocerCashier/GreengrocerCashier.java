@@ -18,15 +18,12 @@ public class GreengrocerCashier {
         fruits.put("Bananas", 0.95f);
         fruits.put("Eggplanties", 5.00f);
 
-
         for (Map.Entry<String, Float> fruit : fruits.entrySet()) {
             System.out.print("How many kilos of " + fruit.getKey() + "? : ");
             kilogram = input.nextFloat();
             totalAmount += kilogram * fruit.getValue();
-            System.out.printf("Subtotal = %.2f", totalAmount);
-            System.out.println(" TL");
+            System.out.printf("Subtotal = %.2f TL%n", totalAmount);
         }
-        System.out.printf("\nTotal Amount = %.2f", totalAmount);
-        System.out.println(" TL");
+        System.out.printf("%nTotal Amount = %.2f TL%n", totalAmount);
     }
 }
