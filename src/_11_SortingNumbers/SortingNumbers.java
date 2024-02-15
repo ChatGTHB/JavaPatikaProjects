@@ -36,7 +36,7 @@ public class SortingNumbers {
             } else {
                 System.out.println("c<b<a");
             }
-        }else{
+        } else {
             System.out.println("You have entered incorrectly. Please enter different numbers.");
         }
     }

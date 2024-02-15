@@ -1,10 +1,16 @@
 # PatikaJavaProject11
-```
-Sorting Numbers from Smaller to Largest
-```
+
+### Sorting Numbers from Smaller to Largest
 
 ```
-Sayıları Küçükten Büyüğe Sıralama
+Write a program that sorts the 3 entered numbers "from least to greatest".
 ```
+
+### Sayıları Küçükten Büyüğe Sıralama
+
+```
+Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız.
+```
+
 [Patika](https://www.patika.dev)
 
