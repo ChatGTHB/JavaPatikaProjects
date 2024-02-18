@@ -9,9 +9,16 @@
 ### _07_Calculator
 ### _08_User Login
 ### _09_Passing Grade
+### _10_Suggesting Events
+### _11_Sorting Numbers
+### _12_Finding Horoscopes
+### _13_Calculation of Flight Ticket
 ### ...
 ### ...
 
 ### ...
 ### ...
+### _44_Salary Calculation
+### _45_Sorted Array
+### _46_Frequencies in The Array
 ### _47_Matrix Transpose
