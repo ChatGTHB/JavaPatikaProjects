@@ -13,6 +13,9 @@
 ### _11_Sorting Numbers
 ### _12_Finding Horoscopes
 ### _13_Calculation of Flight Ticket
+### _14_Chinese Zodiac
+### _15_Leap Year
+### _16_Average Calculation
 ### ...
 ### ...
 
