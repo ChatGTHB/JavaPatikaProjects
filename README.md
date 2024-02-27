@@ -16,6 +16,10 @@
 ### _14_Chinese Zodiac
 ### _15_Leap Year
 ### _16_Average Calculation
+### _17_Program to Find The Sum of Odd Numbers
+### _18_Program to Find Powers of Four and Five
+### _19_Combination Calculation
+### _20_Exponent Calculator Program
 ### ...
 ### ...
 
