@@ -20,6 +20,9 @@
 ### _18_Program to Find Powers of Four and Five
 ### _19_Combination Calculation
 ### _20_Exponent Calculator Program
+### _21_Sum of Digits Calculate
+### _22_Finding Harmonic Series
+### _23_Making Triangles With Stars
 ### ...
 ### ...
 
