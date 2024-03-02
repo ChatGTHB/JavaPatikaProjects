@@ -1,4 +1,4 @@
-package _26_FindingTheLargestAndSmallestNumber;
+package _26_FindingTheLargestAndSmallestNumbers;
 
 import java.util.Scanner;
 

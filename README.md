@@ -23,6 +23,9 @@
 ### _21_Sum of Digits Calculate
 ### _22_Finding Harmonic Series
 ### _23_Making Triangles With Stars
+### _24_ATM Project
+### _25_Finding EBOB and EKOK
+### _26_Finding The Largest and Smallest Numbers
 ### ...
 ### ...
 
