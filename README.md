@@ -2,7 +2,7 @@
 
 ### _01_Calculating Grade Average
 ### _02_Calculating Vat Amount
-### _03_Area af Triangle and Finding Hypotenuse
+### _03_Area of Triangle and Finding Hypotenuse
 ### _04_Area and Perimeter of Circle
 ### _05_Body Mass Index
 ### _06_Greengrocer Cashier
@@ -26,6 +26,9 @@
 ### _24_ATM Project
 ### _25_Finding EBOB and EKOK
 ### _26_Finding The Largest and Smallest Numbers
+### _27_Finding Perfect Number
+### _28_Making Inverted Triangle With Stars
+### _29_Finding Prime Numbers
 ### ...
 ### ...
 
