@@ -29,6 +29,10 @@
 ### _27_Finding Perfect Number
 ### _28_Making Inverted Triangle With Stars
 ### _29_Finding Prime Numbers
+### _30_Fibonacci Series
+### _30_Fibonacci Series 2
+### _31_Finding Palindrome Number
+### _32_Advanced Calculator
 ### ...
 ### ...
 
