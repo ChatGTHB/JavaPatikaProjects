@@ -33,6 +33,9 @@
 ### _30_Fibonacci Series 2
 ### _31_Finding Palindrome Number
 ### _32_Advanced Calculator
+### _33_Student Grading System
+### _34_Boxing Match
+### _35_Harmonic Mean
 ### ...
 ### ...
 
