@@ -39,11 +39,11 @@
 ### _36_Finding Numbers In Array
 ### _37_Print Letter B with Stars
 ### _38_Print The Repeating Even Numbers
-### ...
-### ...
-
-### ...
-### ...
+### _39_Number Guessing Name
+### _40_Finding Palindromic Words
+### _41_Exponent Calculator Program With Recursive
+### _42_Finding Prime Numbers With Recursive
+### _43_RecursivePattern
 ### _44_Salary Calculation
 ### _45_Sorted Array
 ### _46_Frequencies in The Array
