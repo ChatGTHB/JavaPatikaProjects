@@ -1,7 +1,9 @@
 package _46_FrequenciesInTheArray;
 
 import java.util.Scanner;
+
 public class FrequenciesInTheArray {
+
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -26,6 +28,7 @@ public class FrequenciesInTheArray {
                     frequencies[j] = -1;
                 }
             }
+
             if (frequencies[i] != -1) {
                 frequencies[i] = counter;
             }

@@ -3,6 +3,7 @@ package _47_MatrixTranspose;
 import java.util.Scanner;
 
 public class MatrixTranspose {
+
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
