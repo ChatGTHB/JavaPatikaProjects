@@ -60,7 +60,6 @@ public class CombinationCalculation {
         }
 
         combination = nFactorial / (rFactorial * nMinusRFactorial);
-        System.out.println("C(" + n + "," + r + ") = " + combination
-        );
+        System.out.println("C(" + n + "," + r + ") = " + combination);
     }
 }

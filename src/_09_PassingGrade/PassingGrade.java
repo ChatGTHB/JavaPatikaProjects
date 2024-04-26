@@ -3,6 +3,7 @@ package _09_PassingGrade;
 import java.util.Scanner;
 
 public class PassingGrade {
+
     public static void main(String[] args) {
 
         int mathematics, physics, turkish, chemistry, music, totalGrade = 0;

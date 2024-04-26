@@ -3,6 +3,7 @@ package _10_SuggestingEvents;
 import java.util.Scanner;
 
 public class SuggestingEvents {
+
     public static void main(String[] args) {
 
         int temperature;

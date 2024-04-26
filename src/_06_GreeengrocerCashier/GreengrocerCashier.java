@@ -5,6 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class GreengrocerCashier {
+
     public static void main(String[] args) {
 
         float totalAmount = 0f, kilogram = 0f;

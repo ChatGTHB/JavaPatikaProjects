@@ -3,6 +3,7 @@ package _14_ChineseZodiac;
 import java.util.Scanner;
 
 public class ChineseZodiac {
+
     public static void main(String[] args) {
 
         int birthYear, remainder;
@@ -65,7 +66,7 @@ public class ChineseZodiac {
                 break;
             }
         }
-        System.out.println("Your Chinese Zodiac Horoscope : "+zodiac);
+        System.out.println("Your Chinese Zodiac Horoscope : " + zodiac);
     }
 }
 
