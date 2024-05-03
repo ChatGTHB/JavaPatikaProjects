@@ -14,7 +14,6 @@ public class FindingHarmonicSeries {
         number = input.nextInt();
 
         findingHarmonicSeries(number);
-
     }
 
     private static void findingHarmonicSeries(int number) {

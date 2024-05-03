@@ -2,6 +2,7 @@ package _23_MakingTrianglesWithStars;
 
 import java.util.Scanner;
 public class MakingTrianglesWithStars {
+
     public static void main(String[] args) {
 
         int number;
