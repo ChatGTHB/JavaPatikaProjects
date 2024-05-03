@@ -14,8 +14,6 @@ public class SumOfDigitsCalculate {
         number = input.nextInt();
 
         calculateSumOfDigits(number);
-
-
     }
 
     private static void calculateSumOfDigits(int number) {
@@ -26,9 +24,7 @@ public class SumOfDigitsCalculate {
             sumOfDigits += number % 10;
             number = number / 10;
         }
-
         System.out.println("Sum of digits = " + sumOfDigits);
     }
-
 }
 
