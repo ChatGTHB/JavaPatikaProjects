@@ -21,10 +21,7 @@ public class ATMProject {
                 right = 0;
                 System.out.println("Hello, Welcome to the Kodluyoruz Bank!");
                 do {
-                    System.out.println("1-Deposit\n" +
-                            "2-Withdraw Money\n" +
-                            "3-Balance Inquiry\n" +
-                            "4-Exit");
+                    System.out.println("1-Deposit\n" + "2-Withdraw Money\n" + "3-Balance Inquiry\n" + "4-Exit");
                     System.out.print("Please select the action you want to do : ");
                     select = input.nextInt();
 

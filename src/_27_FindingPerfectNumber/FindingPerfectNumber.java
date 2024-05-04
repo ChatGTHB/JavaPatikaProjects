@@ -6,7 +6,7 @@ public class FindingPerfectNumber {
 
     public static void main(String[] args) {
 
-        int number,sum = 0;
+        int number, sum = 0;
 
         Scanner input = new Scanner(System.in);
 
@@ -15,12 +15,12 @@ public class FindingPerfectNumber {
 
         for (int i = number - 1; i > 0; i--) {
             if (number % i == 0) {
-                sum+=i;
+                sum += i;
             }
         }
-        if(sum==number){
+        if (sum == number) {
             System.out.println("The number entered is the perfect number.");
-        }else{
+        } else {
             System.out.println("The number entered is not a perfect number.");
         }
     }
