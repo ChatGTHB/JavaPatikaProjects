@@ -3,6 +3,7 @@ package _30_FibonacciSeries;
 import java.util.Scanner;
 
 public class FibonacciSeries {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

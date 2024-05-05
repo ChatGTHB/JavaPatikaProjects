@@ -3,6 +3,7 @@ package _28_MakingInvertedTriangleWithStars;
 import java.util.Scanner;
 
 public class MakingInvertedTriangleWithStars {
+
     public static void main(String[] args) {
 
         int number;
