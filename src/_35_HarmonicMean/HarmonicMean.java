@@ -2,7 +2,7 @@ package _35_HarmonicMean;
 
 import java.util.Scanner;
 
-public class HarmonicMean{
+public class HarmonicMean {
 
     public static void main(String[] args) {
 
@@ -23,6 +23,4 @@ public class HarmonicMean{
 
         System.out.println("Harmonic mean of the array: " + harmonicMean);
     }
-
-
 }

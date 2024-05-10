@@ -1,6 +1,7 @@
 package _33_StudentGradingSystem;
 
 public class StudentGradingSystem {
+
     public static void main(String[] args) {
 
         Teacher teacher1 = new Teacher("Wilhelm Wundt", "0123456789", "PSYH");

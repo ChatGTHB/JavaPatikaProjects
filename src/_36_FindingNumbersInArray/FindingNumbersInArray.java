@@ -3,6 +3,7 @@ package _36_FindingNumbersInArray;
 import java.util.Arrays;
 
 public class FindingNumbersInArray {
+
     public static void main(String[] args) {
 
         int[] array = {15, 12, 788, 1, -1, -778, 2, 0};

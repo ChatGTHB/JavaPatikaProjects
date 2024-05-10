@@ -16,10 +16,9 @@ public class Boxer {
         this.weight = weight;
         if (dodge >= 0 && dodge <= 100) {
             this.dodge = dodge;
-        }else{
-            this.dodge=0;
+        } else {
+            this.dodge = 0;
         }
-
     }
 
     int hit(Boxer foe) {
