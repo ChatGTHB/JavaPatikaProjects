@@ -14,6 +14,7 @@ public class PrintBWithStars {
                 }
             }
         }
+
         for (String[] row : letter) {
             for (String col : row) {
                 System.out.print(col);
