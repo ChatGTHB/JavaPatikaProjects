@@ -3,6 +3,7 @@ package _41_ExponentCalculatorProgramWithRecursive;
 import java.util.Scanner;
 
 public class ExponentCalculatorProgramWithRecursive {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -23,7 +24,6 @@ public class ExponentCalculatorProgramWithRecursive {
         int result = calculateExponent(base, exponent);
 
         System.out.println(base + "^" + exponent + " = " + result);
-
     }
 
     private static int calculateExponent(int base, int exponent) {
