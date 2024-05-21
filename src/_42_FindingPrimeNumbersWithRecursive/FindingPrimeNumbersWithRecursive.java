@@ -3,6 +3,7 @@ package _42_FindingPrimeNumbersWithRecursive;
 import java.util.Scanner;
 
 public class FindingPrimeNumbersWithRecursive {
+    
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -19,7 +20,7 @@ public class FindingPrimeNumbersWithRecursive {
 
     public static boolean isPrime(int number, int i) {
         if (number <= 2) {
-            return (number == 2) ? true : false;
+            return number == 2;
         }
         if (number % i == 0) {
             return false;

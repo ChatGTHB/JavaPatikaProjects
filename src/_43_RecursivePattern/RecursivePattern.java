@@ -24,5 +24,4 @@ public class RecursivePattern {
         decreaseIncrease(number - 5);
         System.out.print(number + " ");
     }
-
 }
