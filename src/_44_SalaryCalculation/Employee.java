@@ -47,15 +47,6 @@ public class Employee {
 
     @Override
     public String toString() {
-        return
-                "Name = " + this.name + "\n" +
-                "Salary = " + this.salary + "\n" +
-                "Work Hours = " + this.workHours + "\n" +
-                "Hire Year = " + this.hireYear + "\n" +
-                "Tax = " + this.tax + "\n" +
-                "Bonus = " + this.bonus + "\n" +
-                "Raise Salary = " + this.raiseSalary + "\n" +
-                "Salary Without Raise With Taxes And Bonuses = " + (this.salary-this.tax+this.bonus) + "\n" +
-                "Raised Total Salary = " + (this.salary+this.raiseSalary);
+        return "Name = " + this.name + "\n" + "Salary = " + this.salary + "\n" + "Work Hours = " + this.workHours + "\n" + "Hire Year = " + this.hireYear + "\n" + "Tax = " + this.tax + "\n" + "Bonus = " + this.bonus + "\n" + "Raise Salary = " + this.raiseSalary + "\n" + "Salary Without Raise With Taxes And Bonuses = " + (this.salary - this.tax + this.bonus) + "\n" + "Raised Total Salary = " + (this.salary + this.raiseSalary);
     }
 }
