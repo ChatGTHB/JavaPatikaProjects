@@ -3,9 +3,7 @@ package _43_RecursivePattern;
 import java.util.Scanner;
 
 public class RecursivePattern {
-
     public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter a number : ");
@@ -15,7 +13,6 @@ public class RecursivePattern {
     }
 
     private static void decreaseIncrease(int number) {
-
         System.out.print(number + " ");
 
         if (number <= 0) {

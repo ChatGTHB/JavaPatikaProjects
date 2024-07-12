@@ -3,9 +3,7 @@ package _47_MatrixTranspose;
 import java.util.Scanner;
 
 public class MatrixTranspose {
-
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the number of rows in the matrix: ");

@@ -1,7 +1,6 @@
 package _33_StudentGradingSystem;
 
 public class Student {
-
     Course course1;
     Course course2;
     Course course3;

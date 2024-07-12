@@ -3,9 +3,7 @@ package _32_AdvancedCalculator;
 import java.util.Scanner;
 
 public class AdvancedCalculator {
-
     public static void main(String[] args) {
-
         Scanner scan = new Scanner(System.in);
 
         int select;

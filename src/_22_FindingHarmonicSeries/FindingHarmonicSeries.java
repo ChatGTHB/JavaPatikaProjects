@@ -3,9 +3,7 @@ package _22_FindingHarmonicSeries;
 import java.util.Scanner;
 
 public class FindingHarmonicSeries {
-
     public static void main(String[] args) {
-
         int number;
 
         Scanner input = new Scanner(System.in);
@@ -26,4 +24,3 @@ public class FindingHarmonicSeries {
         System.out.println(result);
     }
 }
-

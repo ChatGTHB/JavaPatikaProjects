@@ -3,9 +3,7 @@ package _42_FindingPrimeNumbersWithRecursive;
 import java.util.Scanner;
 
 public class FindingPrimeNumbersWithRecursive {
-    
     public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number: ");
 

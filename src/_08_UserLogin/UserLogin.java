@@ -3,9 +3,7 @@ package _08_UserLogin;
 import java.util.Scanner;
 
 public class UserLogin {
-
     public static void main(String[] args) {
-
         String username, password, newPassword;
         int select;
 
@@ -40,8 +38,3 @@ public class UserLogin {
         }
     }
 }
-
-
-
-
-

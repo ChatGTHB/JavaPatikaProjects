@@ -3,9 +3,7 @@ package _21_SumOfDigitsCalculate;
 import java.util.Scanner;
 
 public class SumOfDigitsCalculate {
-
     public static void main(String[] args) {
-
         int number = 0;
 
         Scanner input = new Scanner(System.in);
@@ -27,4 +25,3 @@ public class SumOfDigitsCalculate {
         System.out.println("Sum of digits = " + sumOfDigits);
     }
 }
-

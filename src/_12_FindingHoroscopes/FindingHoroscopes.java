@@ -3,9 +3,7 @@ package _12_FindingHoroscopes;
 import java.util.Scanner;
 
 public class FindingHoroscopes {
-
     public static void main(String[] args) {
-
         String month;
         int day;
         boolean isError = false;

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class AreaAndPerimeterOfCircle {
     public static void main(String[] args) {
-
         double pi = 3.14, perimeter, area, radius;
 
         Scanner input = new Scanner(System.in);

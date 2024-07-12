@@ -3,9 +3,7 @@ package _13_CalculationOfFlightTicket;
 import java.util.Scanner;
 
 public class CalculationOfFlightTicket {
-
     public static void main(String[] args) {
-
         int distance, age, typeOfTrip;
         double ticketAmount = 0;
         boolean isError = false;
@@ -42,8 +40,3 @@ public class CalculationOfFlightTicket {
         } else System.out.print("Total Amount = " + ticketAmount + " TL");
     }
 }
-
-
-
-
-

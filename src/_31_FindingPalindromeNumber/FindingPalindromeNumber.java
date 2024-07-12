@@ -3,9 +3,7 @@ package _31_FindingPalindromeNumber;
 import java.util.Scanner;
 
 public class FindingPalindromeNumber {
-
     public static void main(String[] args) {
-
         System.out.print("Enter the number you wonder if it is a palindrome : ");
 
         Scanner input = new Scanner(System.in);
@@ -33,4 +31,3 @@ public class FindingPalindromeNumber {
         return result;
     }
 }
-

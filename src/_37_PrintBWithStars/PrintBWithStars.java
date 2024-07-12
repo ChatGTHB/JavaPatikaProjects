@@ -2,7 +2,6 @@ package _37_PrintBWithStars;
 
 public class PrintBWithStars {
     public static void main(String[] args) {
-
         String[][] letter = new String[5][4];
 
         for (int i = 0; i < letter.length; i++) {

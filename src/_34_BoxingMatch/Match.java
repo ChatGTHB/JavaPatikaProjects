@@ -16,9 +16,7 @@ public class Match {
     }
 
     public void run() {
-
         if (isCheck()) {
-
             Random random = new Random();
             boolean isFirstBoxerStarts = random.nextBoolean();
 
@@ -57,7 +55,6 @@ public class Match {
     }
 
     boolean isWin() {
-
         if (this.boxer1.health == 0) {
             System.out.println(this.boxer2.name + " won !");
             return true;

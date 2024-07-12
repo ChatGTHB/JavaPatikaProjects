@@ -4,9 +4,7 @@ package _18_ProgramToFindPowersOfFourAndFive;
 import java.util.Scanner;
 
 public class ProgramToFindPowersOfFourAndFive {
-
     public static void main(String[] args) {
-
         int number;
 
         Scanner input = new Scanner(System.in);

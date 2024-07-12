@@ -5,9 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class NumberGuessingGame {
-
     public static void main(String[] args) {
-
         Random random = new Random();
         int number = random.nextInt(100);
         //int number = (int) (Math.random() * 100);

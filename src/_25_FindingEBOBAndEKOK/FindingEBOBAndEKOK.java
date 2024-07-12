@@ -3,9 +3,7 @@ package _25_FindingEBOBAndEKOK;
 import java.util.Scanner;
 
 public class FindingEBOBAndEKOK {
-
     public static void main(String[] args) {
-
         int number1, number2;
 
         Scanner input = new Scanner(System.in);
@@ -44,5 +42,3 @@ public class FindingEBOBAndEKOK {
         System.out.println("EKOK [" + number1 + "," + number2 + "] = " + (number1 * number2) / ebob);
     }
 }
-
-

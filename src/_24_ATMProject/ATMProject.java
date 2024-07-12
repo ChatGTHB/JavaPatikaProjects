@@ -3,9 +3,7 @@ package _24_ATMProject;
 import java.util.Scanner;
 
 public class ATMProject {
-
     public static void main(String[] args) {
-
         String username, password;
         Scanner input = new Scanner(System.in);
         int right = 3;
@@ -61,4 +59,3 @@ public class ATMProject {
         }
     }
 }
-

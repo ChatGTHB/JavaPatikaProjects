@@ -3,9 +3,7 @@ package _26_FindingTheLargestAndSmallestNumbers;
 import java.util.Scanner;
 
 public class FindingTheLargestAndSmallestNumbers {
-
     public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter the number of counting numbers: ");
@@ -33,5 +31,3 @@ public class FindingTheLargestAndSmallestNumbers {
         input.close();
     }
 }
-
-

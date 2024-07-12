@@ -3,9 +3,7 @@ package _19_CombinationCalculation;
 import java.util.Scanner;
 
 public class CombinationCalculation {
-
     public static void main(String[] args) {
-
         double n = 0, r = 0;
 
         calculateCombination(n, r);

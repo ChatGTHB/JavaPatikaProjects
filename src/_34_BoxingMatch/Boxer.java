@@ -1,7 +1,6 @@
 package _34_BoxingMatch;
 
 public class Boxer {
-
     String name;
     int damage;
     int health;
@@ -9,7 +8,6 @@ public class Boxer {
     int dodge;
 
     public Boxer(String name, int damage, int health, int weight, int dodge) {
-
         this.name = name;
         this.damage = damage;
         this.health = health;
@@ -22,7 +20,6 @@ public class Boxer {
     }
 
     int hit(Boxer foe) {
-
         System.out.println(this.name + " => " + foe.name + " " + this.damage + " damaged.");
 
         if (foe.isDodge()) {

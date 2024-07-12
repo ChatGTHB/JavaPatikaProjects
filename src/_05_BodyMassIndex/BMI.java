@@ -3,9 +3,7 @@ package _05_BodyMassIndex;
 import java.util.Scanner;
 
 public class BMI {
-
     public static void main(String[] args) {
-
         double height, weight, bodyMassIndex;
 
         Scanner input = new Scanner(System.in);

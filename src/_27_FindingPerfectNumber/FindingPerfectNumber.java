@@ -3,9 +3,7 @@ package _27_FindingPerfectNumber;
 import java.util.Scanner;
 
 public class FindingPerfectNumber {
-
     public static void main(String[] args) {
-
         int number, sum = 0;
 
         Scanner input = new Scanner(System.in);
@@ -25,5 +23,3 @@ public class FindingPerfectNumber {
         }
     }
 }
-
-

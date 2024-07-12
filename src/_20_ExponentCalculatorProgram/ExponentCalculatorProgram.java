@@ -3,9 +3,7 @@ package _20_ExponentCalculatorProgram;
 import java.util.Scanner;
 
 public class ExponentCalculatorProgram {
-
     public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter the number to be exponentiated : ");
@@ -36,4 +34,3 @@ public class ExponentCalculatorProgram {
         System.out.println(base + "^" + exponent + " = " + total);
     }
 }
-

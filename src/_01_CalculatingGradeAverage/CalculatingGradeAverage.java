@@ -6,9 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class CalculatingGradeAverage {
-
     public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         List<String> lessons = new ArrayList<String>(Arrays.asList("Mathematics", "Physics", "Chemistry", "Turkish", "History", "Music"));

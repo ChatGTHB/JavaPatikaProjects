@@ -3,9 +3,7 @@ package _15_LeapYear;
 import java.util.Scanner;
 
 public class LeapYear {
-
     public static void main(String[] args) {
-
         int leapYear;
         boolean isLeapYear = false;
 
@@ -31,8 +29,3 @@ public class LeapYear {
         }
     }
 }
-
-
-
-
-

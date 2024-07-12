@@ -3,9 +3,7 @@ package _17_ProgramToFindTheSumOfOddNumbers;
 import java.util.Scanner;
 
 public class ProgramToFindTheSumOfOddNumbers {
-
     public static void main(String[] args) {
-
         int number, total = 0;
 
         Scanner input = new Scanner(System.in);
