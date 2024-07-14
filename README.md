@@ -1,34 +1,39 @@
 
 # Java Patika Projects
 
-## Introduction
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/github/license/ChatGTHB/JavaPatikaProjects?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ChatGTHB/JavaPatikaProjects?style=for-the-badge)
+
+## 💡 Introduction
 This repository contains a collection of Java projects designed to help learners understand and apply fundamental programming concepts. Each project addresses a specific problem or scenario, providing practical experience and reinforcing Java skills.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [Running Projects](#running-projects)
+## 📚 Table of Contents
+- [💡 Introduction](#💡-introduction)
+- [📥 Installation](#📥-installation)
+- [⚙️ Usage](#⚙️-usage)
+- [✨ Features](#✨-features)
+- [📦 Dependencies](#📦-dependencies)
+- [🔧 Configuration](#🔧-configuration)
+- [🚀 Running Projects](#🚀-running-projects)
   - [Running with IntelliJ IDEA](#running-with-intellij-idea)
   - [Running with Visual Studio Code](#running-with-visual-studio-code)
-- [Documentation](#documentation)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
+- [📚 Documentation](#📚-documentation)
+- [🛠️ Troubleshooting](#🛠️-troubleshooting)
+- [👥 Contributors](#👥-contributors)
+- [🤝 Contributing](#🤝-contributing)
+- [📜 License](#📜-license)
 
-## Installation
+## 📥 Installation
 To get started with this project, clone the repository to your local machine:
 ```bash
 git clone https://github.com/ChatGTHB/JavaPatikaProjects.git
 ```
 
-## Usage
+## ⚙️ Usage
 Navigate to the `src` directory to find various Java projects. Each project is organized into its own subdirectory, named according to the problem it solves.
 
-## Features
+## ✨ Features
 This repository includes a variety of projects covering core Java concepts:
 - **01_Calculating Grade Average**: Calculate the average grade from a list of scores.
 - **02_Calculating Vat Amount**: Compute the VAT amount for given prices.
@@ -78,14 +83,14 @@ This repository includes a variety of projects covering core Java concepts:
 - **46_Frequencies in The Array**: Determine the frequency of each element in an array.
 - **47_Matrix Transpose**: Compute the transpose of a matrix.
 
-## Dependencies
+## 📦 Dependencies
 - **Java Development Kit (JDK)**: Ensure you have JDK 8 or higher installed.
 - **Integrated Development Environment (IDE)**: Recommended IDEs include IntelliJ IDEA, Eclipse, or NetBeans.
 
-## Configuration
+## 🔧 Configuration
 No specific configuration is required. Ensure your IDE is set up to compile and run Java programs.
 
-## Running Projects
+## 🚀 Running Projects
 
 ### Running with IntelliJ IDEA
 #### Cloning from VCS
@@ -112,14 +117,17 @@ No specific configuration is required. Ensure your IDE is set up to compile and 
 4. Open the Java file you want to run.
 5. Click on the `Run` button at the top right or press `F5` to run the project.
 
-## Documentation
+## 📚 Documentation
 Each project is self-documented with comments and explanations within the code. Refer to the specific project directories for detailed instructions and usage examples.
 
-## Troubleshooting
+## 🛠️ Troubleshooting
 If you encounter any issues, ensure that your JDK and IDE are correctly installed and configured. Check for common syntax errors or setup issues.
 
-## Contributors
+## 👥 Contributors
 - [ChatGTHB](https://github.com/ChatGTHB)
 
-## License
+## 🤝 Contributing
+Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+
+## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
