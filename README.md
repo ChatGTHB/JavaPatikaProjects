@@ -2,8 +2,10 @@
 # Java Patika Projects
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-JVM-blue?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/ChatGTHB/JavaPatikaProjects?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ChatGTHB/JavaPatikaProjects?style=for-the-badge)
+
 
 ## 💡 Introduction
 This repository contains a collection of Java projects designed to help learners understand and apply fundamental programming concepts. Each project addresses a specific problem or scenario, providing practical experience and reinforcing Java skills.
